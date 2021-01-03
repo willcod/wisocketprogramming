@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+/.vs
+/Block/SocketProgramming/.vs/SocketProgramming/v16
+/Block/SocketProgramming/Client/Debug/Client.tlog
+/Block/SocketProgramming/Client/Debug
+/Block/SocketProgramming/Debug
+/Block/SocketProgramming/Server/Debug
